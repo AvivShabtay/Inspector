@@ -1,4 +1,5 @@
 #include "Inspector.h"
+#include "DebugPrint.h"
 
 // Variable for the run-time callout identifier
 UINT32 g_calloutId;
